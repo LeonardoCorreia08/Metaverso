@@ -42,7 +42,7 @@ O sistema solar foi construído com proporções visuais equilibradas, permitind
 - **Bloom** configurado via Post-Processing (Volume + URP)
 
 #### Planetas
-Todos os planetas foram criados como **Sphere 3D** com materiais `Universal Render Pipeline/Lit` e texturas aplicadas no **Base Map**:
+Alguns dos planetas foram criados como **Sphere 3D** e outros em 2d com materiais `Universal Render Pipeline/Lit` e texturas aplicadas no **Base Map**:
 
 | Planeta | Scale | Position X | Rotation Z (Órbita) |
 |---------|-------|------------|----------------------|
