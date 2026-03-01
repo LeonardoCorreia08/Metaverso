@@ -1,3 +1,13 @@
+# METAVERSO
+
+Código criado para utilização junto ao curso de imersaoRA
+
+<p align="center"><img src="./Metaverso.PNG" width="500"></p>
+
+## Repertório para os Desafios de Projeto das Unidades
+
+
+
 # AMIA — Assistência e Manutenção Inteligente e Aumentada da ISS
 
 ## Sobre o Projeto
