@@ -271,7 +271,13 @@ A UI é composta por um **Canvas** com os seguintes elementos:
 - **Physics:** Sphere Colliders nos planetas com tag `Celestial`
 
 ---
+##  **Tecnologias Utilizadas**  
+- **Unity 3D**: Engine principal para o desenvolvimento.  
+- **C#**: Linguagem de programação para scripts e lógica do simulador.  
+- **Blender 3D**: Modelagem dos objetos celestes.  
+- **Visual Studio Code**: Editor de código-fonte utilizado no projeto.
 
+---
 ## Problemas Resolvidos
 
 ### Materiais Rosas (Hidden/InternalErrorShader)
