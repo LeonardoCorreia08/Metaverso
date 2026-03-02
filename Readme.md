@@ -111,7 +111,9 @@ Scale:     X: 0.02, Y: 0.02, Z: 0.02
 - Janelas planejadas para mostrar o espaço exterior com Sol, Lua e planetas visíveis
 ---
 <p align="center"><img src="./scena 2.PNG" width="500"></p>
+<p align="center"><img src="./modulo.PNG" width="500"></p>
 [Sci Fi Modular Pack](https://assetstore.unity.com/packages/3d/environments/sci-fi/modular-sci-fi-corridor-142811)
+
 ---
 
 ## Scripts Desenvolvidos.
