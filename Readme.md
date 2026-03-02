@@ -82,9 +82,16 @@ SolarSystem
     ├── Saturno
     ├── Urano
     └── Netuno
+
 ```
+
 <p align="center"><img src="./scena 1.PNG" width="500"></p>
+<p align="center"><img src="./estacao.PNG" width="500"></p>
+
+```
+
 [Sistema solar 3D](https://assetstore.unity.com/packages/3d/environments/planets-of-the-solar-system-3d-90219)
+
 ---
 
 ### 2. Estação Espacial Internacional (ISS)
@@ -109,9 +116,14 @@ Scale:     X: 0.02, Y: 0.02, Z: 0.02
 - Materiais convertidos de Built-in para **URP/Lit**
 - Câmera em **primeira pessoa** para navegação pelo corredor
 - Janelas planejadas para mostrar o espaço exterior com Sol, Lua e planetas visíveis
+
 ---
+
 <p align="center"><img src="./scena 2.PNG" width="500"></p>
 <p align="center"><img src="./modulo.PNG" width="500"></p>
+
+```
+
 [Sci Fi Modular Pack](https://assetstore.unity.com/packages/3d/environments/sci-fi/modular-sci-fi-corridor-142811)
 
 ---
