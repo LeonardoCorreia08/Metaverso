@@ -112,7 +112,7 @@ Scale:     X: 0.02, Y: 0.02, Z: 0.02
 [Sci Fi Modular Pack](https://assetstore.unity.com/packages/3d/environments/sci-fi/modular-sci-fi-corridor-142811)
 ---
 
-## Scripts Desenvolvidos
+## Scripts Desenvolvidos.
 
 ### Rotation.cs
 Controla a rotação de cada planeta em torno do seu próprio eixo.
