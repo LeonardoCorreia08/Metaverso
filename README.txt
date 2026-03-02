@@ -1,7 +1,24 @@
+Aluno: Leonardo Henrique da Silva Correia
+Projeto: https://github.com/LeonardoCorreia08/Metaverso
+
 ================================================================================
   AMIA — Assistência e Manutenção Inteligente e Aumentada da ISS
-  Projeto Final — Residência em TIC 29 | Web 3.0
+  Projeto  — Metaverso | Web 3.0
 ================================================================================
+
+As 3 Camadas do AMIA
+
+Camada 1 — Inteligência Artificial (Predição) "Realizado com HBR"
+IA monitorando equipamentos da ISS em tempo real, prevendo falhas antes que aconteçam. 
+Sensores coletam dados e algoritmos de machine learning identificam padrões de desgaste.
+
+Camada 2 — Realidade Aumentada (Manutenção) "Realizado com IRede"
+Após a IA sinalizar o desgaste, o técnico/astronauta usa RA para executar a manutenção 
+com precisão — vendo instruções sobrepostas no equipamento real, passo a passo.
+
+Camada 3 — Metaverso/VR (Treinamento)  "Realizado com WEB3"
+Antes de qualquer manutenção real, o profissional treina no ambiente virtual da ISS que 
+você está construindo no Unity — simulando os procedimentos com segurança.
 
 --------------------------------------------------------------------------------
   REQUISITOS DO SISTEMA
