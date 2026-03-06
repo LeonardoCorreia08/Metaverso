@@ -316,7 +316,6 @@ A UI é composta por um **Canvas** com os seguintes elementos:
 - [ ] Implementar câmera em primeira pessoa no interior da ISS
 - [ ] Adicionar janelas com visão do espaço exterior no corredor interno
 - [ ] Integrar sistema de IA para manutenção preditiva (AMIA)
-- [ ] Implementar Realidade Aumentada com Meta XR SDK
 - [ ] Adicionar equipamentos interativos no interior da ISS
 - [ ] Criar sistema de tutoriais e procedimentos de manutenção
 
