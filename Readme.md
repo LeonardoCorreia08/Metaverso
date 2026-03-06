@@ -311,6 +311,30 @@ A UI é composta por um **Canvas** com os seguintes elementos:
 
 ---
 
+# Processo de Criação e Dificuldades
+
+## 1. Processo de Desenvolvimento
+
+O desenvolvimento do projeto AMIA seguiu uma abordagem modular, conectando a teoria dos fundamentos de XR com a prática do Metaverso. O fluxo de trabalho foi dividido em:
+
+- **Estruturação do Sistema Solar:** Utilização de conceitos básicos de transformações (rotação e translação) para criar um ambiente dinâmico e navegável.
+- **Imersão e Escala:** Transição para o ambiente interno da ISS, priorizando a escala correta e a imersão do usuário através de materiais otimizados para URP.
+- **Navegação Inteligente:** Implementação de um sistema de câmera robusto que permite ao usuário transitar entre a visão macro (espaço) e a visão micro (módulos da estação).
+
+## 2. Desafios Enfrentados e Soluções
+
+- **Compatibilidade de Materiais (URP):** Um dos maiores obstáculos foi a importação de assets com shaders antigos ou HDRP que resultavam em "materiais rosas". A solução foi a conversão manual de cada material para o Universal Render Pipeline/Lit, garantindo performance para o Meta Quest.
+- **Lógica de Navegação da Câmera:** Fazer a câmera focar e orbitar corpos em movimento constante (translação) exigiu um ajuste preciso no `CameraController.cs`. Para evitar trepidações (*jittering*), utilizei o `FixedUpdate` para garantir que o pivot da câmera seguisse o planeta de forma estável.
+- **Configuração Técnica XR:** A integração com o Meta XR SDK exigiu atenção rigorosa às *Build Settings* e ao XR Plugin Management para assegurar que a experiência fosse funcional tanto no Editor quanto no hardware Android final.
+
+## 3. Reflexão sobre o Aprendizado
+
+Este projeto consolidou o entendimento de que o Metaverso não é apenas um espaço visual, mas uma camada de interação com objetivos claros.
+
+- **Equilíbrio Técnico:** Aprendi a balancear a fidelidade visual (usando Shaders customizados e Post-Processing) com a performance necessária para dispositivos de Realidade Virtual.
+- **Interatividade:** A transição de um ambiente estático para um interativo — onde o clique no planeta gera uma ação de foco e translação — demonstrou como a funcionalidade em C# eleva a experiência XR.
+
+
 ## Próximos Passos
 
 - [ ] Implementar câmera em primeira pessoa no interior da ISS
